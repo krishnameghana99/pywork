@@ -1,1 +1,2 @@
-print("good luck to us")
+x=10
+y=12
